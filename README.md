@@ -5,6 +5,9 @@ The project demonstrates an end-to-end workflow including model training, deploy
 
 ---
 
+## 🔗 Live Demo
+[https://Y.streamlit.app](https://diabetes-risk-predictor-aay76hz4jqgepztkcsn2qb.streamlit.app/)
+
 ## Overview
 
 This repository contains a Streamlit-based interface that estimates diabetes risk from clinical parameters.
