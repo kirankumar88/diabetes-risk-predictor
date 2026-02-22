@@ -1,0 +1,60 @@
+# =========================
+# Python cache & compiled
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Streamlit cache
+# =========================
+.streamlit/
+
+# =========================
+# OS / System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Python build artifacts
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Secrets / environment vars
+# =========================
+.env
+
+# =========================
+# Large data files (optional)
+# =========================
+*.csv
+*.xlsx
