@@ -3,6 +3,9 @@
 A machine learning web application for predicting diabetes risk using Logistic Regression and Streamlit.
 The project demonstrates an end-to-end workflow including model training, deployment, and interactive clinical input handling.
 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 09_38_56 PM" src="https://github.com/user-attachments/assets/d077f852-eed2-4272-b6ac-483b09e69720" />
+
+
 ---
 
 ## 🔗 Live Demo
